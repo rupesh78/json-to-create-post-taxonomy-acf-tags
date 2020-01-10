@@ -10,12 +10,8 @@
 ### Clone file on localsystem
 
 ```
-git clone https://github.com/wordpressintegration/read-json-to-create-post-taxonomy-acf.git
+git clone https://github.com/rupesh78/read-json-to-create-post-taxonomy-acf.git
 ```
-
-## Author
-
-* **Rupesh parmar** - *Initial work* - [rupeshparmar](https://github.com/rupesh78)
 
 
 ## License
