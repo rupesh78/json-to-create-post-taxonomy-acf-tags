@@ -1,5 +1,6 @@
 # Read JSON to Create WordPress Posts
-###Read JSON in WordPress and create post, taxonomy, ACF Repeater field</h1>
+
+### Read JSON in WordPress and create post, taxonomy, ACF Repeater field</h1>
 
 <p>This is an example of a PHP script. I have created a PHP script to read JSON file, create posts, select available taxonomies, upload multiple images, upload featured image and ACF filed as well as ACF Repeater field by JSON on the WordPress Admin Panel.</p>
 
